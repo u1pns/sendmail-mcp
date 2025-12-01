@@ -1,6 +1,6 @@
 {
   "name": "sendmail-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Model Context Protocol (MCP) server for sending emails via SMTP.",
   "main": "index.js",
   "bin": {

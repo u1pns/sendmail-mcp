@@ -101,7 +101,7 @@ This method is ideal when you're developing locally or want to run the server di
         ```
         *The server will automatically load the credentials from the `.env` file located in the same directory as `index.js`.*
 
-### Option 2: Using `npx` (Requires Publishing to NPM)
+### Option 2: Using `npx`
 
 This method is similar to how `chrome-devtools-mcp` is used, where you can reference the package directly via `npx` after it has been published to the npm registry. This provides a more convenient and globally accessible way to use the server.
 
